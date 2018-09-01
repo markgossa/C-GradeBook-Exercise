@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Grades
 {
-    class GradeBook
+    public class GradeBook
     {
         // Create a new method that adds a grade to the grades list
         public void AddGrade(float grade)
