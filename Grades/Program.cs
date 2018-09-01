@@ -21,8 +21,6 @@ namespace Grades
             Console.WriteLine($"Average grade: {stats.AverageGrade}");
             Console.WriteLine($"Lowest grade: {stats.LowestGrade}");
             Console.WriteLine($"Highest grade: {stats.HighestGrade}");
-
-            // Test commit
         }
     }
 }
