@@ -25,7 +25,7 @@ namespace Grades
 
         static void WriteResult(string resultType, float grade)
         {
-            Console.WriteLine("{0}: {1}", resultType, grade);
+            Console.WriteLine($"{resultType}: {grade}");
         }
     }
 }
